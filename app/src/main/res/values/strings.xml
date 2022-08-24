@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations App</string>
+    <string name="a1">A winner is a dreamer who never gave up</string>
+    <string name="a2">Believe in yourself</string>
+    <string name="a3">Strive for progress not perfection</string>
+    <string name="a4">Big journeys begin with small steps</string>
+    <string name="a5">Out of a mountain of despair, a stone of hope</string>
+    <string name="a6">Say something positive, and you’ll see something positive</string>
+    <string name="a7">Train your mind to see the good in every situation</string>
+    <string name="a8">Only in the darkness can you see the stars</string>
+    <string name="a9">Be the change that you wish to see in the world</string>
+    <string name="a10">And miles to go before i sleep..</string>
+</resources>
